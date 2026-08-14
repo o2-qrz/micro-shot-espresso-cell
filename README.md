@@ -4,9 +4,7 @@ markdown
 
 
 
-html
 
-<img src="www1.png" alt="Resilience-B Layout Diagram" width="500"> 
 
 
 
