@@ -34,7 +34,9 @@ markdown
 
 html
 
-<img src="www2.png" alt="Resilience-B Layout Diagram" width="500"> 
+html
+
+<img src="www2.png" alt="Resilience-B Layout Diagram" width="600"> 
 
 
 
