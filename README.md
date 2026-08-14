@@ -34,7 +34,7 @@ markdown
 
 html
 
-html
+
 
 <img src="www2.png" alt="Resilience-B Layout Diagram" width="600"> 
 
@@ -44,4 +44,7 @@ html
 markdown
 
 # 
+markdown
+
+### 🍜 Sub-Node 3.5: Multi-Mission Thermal Scalability (The 149 mAh "Field-Ration" Core) The micro-fluidic flash-heating matrix possesses true programmatic volume scalability. By adjusting the cycle registries inside the bare-metal assembly layer, the system transitions from espresso extraction to high-volume thermodynamic food preparation without changing the physical hardware layout. * **The 200g High-Volume Intercept:** To prepare standard dry field rations (100g noodle matrix), the system is configured to deliver exactly 20 sequential micro-injections of 10g each. * **The 82-Second Flash Cycle:** Total continuous operation of the 81.2W nichrome resistor requires exactly 82 seconds to flash-boil the full 200g water mass. Vapor pressure drives the boiling fluid directly onto the food matrix, maximizing moisture absorption. * **Ultra-Low Battery Capital Depletion:** The entire high-volume heating execution draws a nominal **0.149 Ah (149 mAh)** from the 12V second-life sub-rail. A single degraded 60 Ah battery block preserves enough potential to process over 400 hot field rations, proving absolute thermodynamic sovereignty in deep off-grid encampments. 
 
