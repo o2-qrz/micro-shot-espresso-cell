@@ -4,9 +4,8 @@ html
 
 html
 
-<p align="center"> <img src="www1.png" alt="Resilience-B Layout Diagram" width="500"> <br> <em>Figure 1: Core mechanical layout of the Resilience-B mobile energy system.</em> </p> 
 
-
+![.](www1.png)
 
 
 
