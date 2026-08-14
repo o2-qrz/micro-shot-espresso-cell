@@ -1,4 +1,8 @@
 markdown
+html
+
+<p align="center"> <img src="www1.png" alt="Resilience-B Layout Diagram" width="500"> <br> <em>Figure 1: Core mechanical layout of the Resilience-B mobile energy system.</em> </p> 
+
 
 # ☕ The Micro-Shot Espresso Cell (81.2W Flash-Heating Fluid Core) 🚀⚡ An open-source, energy-optimized **Micro-Fluidic Appliance Architecture** engineered through a strict 50/50 co-creation sprint between a human lead hardware architect and Google Gemini AI. This repository hosts the engineering blueprints and low-level control code for an ultra-fast, decentralized coffee extraction cell. By rejecting traditional high-amperage bulk boilers, this platform processes water strictly in localized **10-gram micro-shots**, achieving boiling parameters within seconds using standard 12V off-grid power rails. > **"Unconventional micro-thermodynamics out-engineer brute structural volume every single day."** --- ## 📐 THE MICRO-FLUIDIC EXTRACTION BLUEPRINT 
 
