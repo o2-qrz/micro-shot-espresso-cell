@@ -34,9 +34,10 @@ markdown
 
 html
 
+html
 
+<img src="www2.png" width="100%"> 
 
-![Real World Evidence](www2.png) 
 
 
 
